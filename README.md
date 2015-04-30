@@ -3,10 +3,10 @@ Real Live Wallpaper Abstractions full project
 
 - Wallpapers:
 
-![](demo/line_gif.gif)
+![](demo/lines_gif.gif)
 ![](demo/women_gif.gif)
 ![](demo/planet_gif.gif)
-![](demo/spiral_gif.png)
+![](demo/spiral_gif.gif)
 
 
 - Please check ```app/``` for more info.
