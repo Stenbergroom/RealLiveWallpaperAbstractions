@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/background_main">
+
+    <Button
+            android:id="@+id/btnSetWallpaper"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:background="@drawable/abc_popup_background_mtrl_mult"
+            android:text="@string/btn_set_wallp"
+            android:textColor="@android:color/black"
+            android:textAllCaps="false"
+            android:textSize="20sp"
+            android:onClick="onClickSetWallpaper"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="100dp"/>
+
+    <Button
+            android:id="@+id/btnMoreWallpaper"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:background="@drawable/abc_popup_background_mtrl_mult"
+            android:text="@string/btn_more_wallp"
+            android:textColor="@android:color/black"
+            android:textAllCaps="false"
+            android:textSize="20sp"
+            android:onClick="onClickMoreWallpaper"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="175dp"/>
+
+    <Button
+            android:id="@+id/btnShare"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:background="@drawable/abc_popup_background_mtrl_mult"
+            android:text="@string/btn_share"
+            android:textColor="@android:color/black"
+            android:textAllCaps="false"
+            android:textSize="20sp"
+            android:onClick="onClickShare"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="250dp"/>
+
+</RelativeLayout>

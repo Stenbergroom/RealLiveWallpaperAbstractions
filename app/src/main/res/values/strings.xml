@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Real Live Wallpaper Abstractions</string>
+    <string name="btn_set_wallp">Set Wallpaper</string>
+    <string name="btn_more_wallp">More Wallpaper</string>
+    <string name="btn_share">Share</string>
+    <string name="title_lines">Lines</string>
+    <string name="title_planet">Planet</string>
+    <string name="title_spiral">Spiral</string>
+    <string name="title_woman">Woman</string>
+    <string name="best_lwp">Best Live Wallpaper!</string>
+    <string name="share">Share with friends</string>
+
+                                            <!--Toast-->
+    <string name="more_wallp">New wallpapers will be added soon</string>
+</resources>
