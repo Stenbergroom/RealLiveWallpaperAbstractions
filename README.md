@@ -21,6 +21,9 @@ Real Live Wallpaper Abstractions full project
 </a>
 
 =======
+### Developed By
+
+- Aleksandr Marchenko - marrchenko@gmail.com
 
 ### License
 
